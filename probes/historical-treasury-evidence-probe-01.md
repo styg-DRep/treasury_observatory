@@ -2,7 +2,7 @@
 
 ## Status
 
-**Proposed formation probe**
+**Active formation probe**
 
 This probe is a bounded experiment within the Treasury Observatory Formation Inquiry.
 
