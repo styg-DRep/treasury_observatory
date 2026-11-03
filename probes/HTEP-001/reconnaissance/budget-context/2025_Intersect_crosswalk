@@ -1,0 +1,71 @@
+# 2025 Intersect Budget — Action-to-Proposal Crosswalk
+
+**HTEP-001 reconnaissance supplement, v0.1 — 2026-11-03**  
+**Status:** completed *direct-reference* crosswalk; independent budget-list reconciliation pending.  
+**Source:** Koios mainnet `/proposal_list`, snapshot `2026-11-03T20:42:44.166123+00:00`, tip epoch 665.  
+**Parent:** `budget-process-context-register.md`.
+
+## Finding
+
+All **39 TWD governance actions submitted in epoch 570** have valid proposal metadata that contain:
+
+1. **One direct reference to a distinct 2025 Ekklesia proposal URL** (`39/39` unique URLs).
+2. A direct reference to the same **2025 Intersect Budget Info Action**, identified from the raw Koios snapshot as `gov_action1u9x73kwufaxa70lfy59g4ynwyrcsaxdcd0gxzzmh67s9fxq4j8hqqk2phgh` (epoch 557).
+3. A reference to the same successful-proposals CSV: `ipfs://bafybeicwrop4q7xvnyjdd5drumbe56sqtm5lbe2ul3c262zt4hgguzdycm`.
+
+All 39 action IDs are unique; all metadata validity flags are `true`. This is a **direct documentary-reference match**, not a fuzzy matching result. The companion CSV preserves each full action ID, specific Ekklesia proposal URL, title, amount, disposition, transaction grouping, metadata hash, and raw reference URLs.
+
+**Boundary:** The external successful-proposals CSV could not be fetched through accessible gateways during this pass. Therefore we have validated the *on-chain-to-Ekklesia link references for every action*, but have **not** independently verified that the 39 linked Ekklesia entries exactly exhaust the CSV's contents or that their final approved amounts match the on-chain requests. The `external_list_reconciled` field is `not_yet_verified` for all rows; this distinction is not grounds to discard the stronger direct-reference evidence.
+
+## Reconciliation
+
+| Measure | Value |
+|---|---:|
+| 2025 Intersect aggregate Budget Info Action | ₳275,269,340 |
+| Epoch-570 TWD action count | **39** |
+| Unique Ekklesia proposal references | **39** |
+| Unique TWD submission transactions | **3** (37 + 1 + 1 actions) |
+| Total TWD requests | **₳275,031,507** |
+| Eventually enacted actions | **37** |
+| Enacted amount | **₳270,531,507** |
+| Expired actions | **2** |
+| Expired requested amount | **₳4,500,000** |
+| Difference, budget aggregate less all submitted TWD requests | **₳237,833** |
+
+The difference of ₳237,833 between the declared aggregate budget and submitted withdrawal amounts is **unexplained** in this crosswalk. It must not be silently characterized as an administrative fee, amendment, correction, or savings without source evidence. The enacted amount differs from the total requests because two actions expired. A budget Info Action does not itself transfer funds.
+
+### Two expired actions
+
+- **Withdraw ₳1,500,000 for Complement Catalyst: Extended Quadratic Funding---Zer...** — ₳1,500,000; [on-chain action](https://www.cardanocube.com/governance/gov_actions/gov_action13tfag48nf94rtjcdq7c06vhkslmxxw9h6c88sl7q5g5nnewcsvlpk0mqrnw); [Ekklesia proposal](https://2025budget.intersectmbo.org/ballots/680d1b63565577986442d123/proposals/680d1b63565577986442d162); `gov_action13tfag48nf94rtjcdq7c06vhkslmxxw9h6c88sl7q5g5nnewcsvlpk0mqrnw`.
+- **Withdraw ₳3,000,000 for High-yield RWA Asset for Cardano: Tokenized Real Estate** — ₳3,000,000; [on-chain action](https://www.cardanocube.com/governance/gov_actions/gov_action13tfag48nf94rtjcdq7c06vhkslmxxw9h6c88sl7q5g5nnewcsvlpuz29v77); [Ekklesia proposal](https://2025budget.intersectmbo.org/ballots/680d1b63565577986442d123/proposals/680d1b63565577986442d186); `gov_action13tfag48nf94rtjcdq7c06vhkslmxxw9h6c88sl7q5g5nnewcsvlpuz29v77`.
+
+## Provenance and interpretation
+
+**Evidence layers:**
+
+- **On-chain event metadata (indexed by Koios):** action ID, submission epoch, withdrawal entries, action lifecycle fields, anchored proposal metadata, and reference URLs.
+- **Governance-action metadata assertion:** each on-chain action links to one Ekklesia budget proposal and identifies a common 2025 Budget Info Action. These are assertions made in anchored proposal metadata, not proof that every off-chain procedural requirement was met.
+- **Institutional description:** Intersect's public retrospective reports 39 submitted withdrawals and 37 passing. This independently corroborates the cohort totals, not every line item.
+- **Off-chain selection data:** referenced CSV and Ekklesia proposal pages; their content has not yet been independently reconciled in this pass.
+
+**Interpretive caution:** This analysis establishes a common submission cohort and traceable proposal identifiers. It does **not** establish a single common funded initiative: there are 39 distinct proposed scopes; nor does it establish the disposition or completion of contracted work.
+
+## Next verification steps
+
+1. Retrieve and preserve the referenced 39-entry list (the IPFS CID above). Compare normalized Ekklesia proposal IDs, titles, and amounts against the companion CSV; do not force matches.
+2. Inspect the aggregate budget's line-item totals to explain (or explicitly leave unresolved) the ₳237,833 difference.
+3. Preserve the external list, Ekklesia page snapshots and the raw Koios payload in the Evidence Corpus, including retrieval timestamp, content hash, and extraction version.
+4. Feed the 39 direct-reference links back into the Budget Process Context Register; move the 2025 priority to **direct-reference crosswalk complete / off-chain reconciliation outstanding**.
+
+## Key sources
+
+- Raw Koios: https://api.koios.rest/api/v1/proposal_list
+- Budget Info Action: https://www.cardanocube.com/governance/gov_actions/gov_action1u9x73kwufaxa70lfy59g4ynwyrcsaxdcd0gxzzmh67s9fxq4j8hqqk2phgh
+- Successful-proposals list: ipfs://bafybeicwrop4q7xvnyjdd5drumbe56sqtm5lbe2ul3c262zt4hgguzdycm
+- Intersect's retrospective: https://docs.intersectmbo.org/intersect-knowledge-base/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report
+- Intersect's overview: https://intersectmbo.org/news/intersect-update-special-edition
+
+## Recommended storage
+
+- **Observatory:** this Markdown account as `probes/HTEP-001/reconnaissance/2025-budget-crosswalk.md`.
+- **Evidence Corpus:** `2025-budget-action-crosswalk.csv` as a derived evidence index alongside the archived Koios raw payload. The CSV is a source-reference crosswalk, not a fully normalized funding history.
