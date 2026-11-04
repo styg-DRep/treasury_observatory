@@ -1,0 +1,19 @@
+round,classification,funded_proposals,completed,in_progress,did_not_finish,notes,source_url
+Fund 0,internal experiment,,,,,Internal focus group; no funded projects; not a public funding round,https://www.iog.io/news/project-catalyst-introducing-our-first-public-fund-for-cardano-community-innovation
+Fund 1,non-funding community test,0,0,0,0,Non-funding pilot; ballot proposals present,https://projectcatalyst.io/funds/1
+Fund 2,funding round,11,9,0,2,First public fund distributing grants,https://projectcatalyst.io/funds/2
+Fund 3,funding round,21,16,0,5,,https://projectcatalyst.io/funds/3
+Fund 4,funding round,51,40,0,11,,https://projectcatalyst.io/funds/4
+Fund 5,funding round,69,59,0,10,,https://projectcatalyst.io/funds/5
+Fund 6,funding round,151,122,0,29,,https://projectcatalyst.io/funds/6
+Fund 7,funding round,264,217,0,47,,https://projectcatalyst.io/funds/7
+Fund 8,funding round,367,306,0,61,,https://projectcatalyst.io/funds/8
+Fund 9,funding round,207,178,0,29,,https://projectcatalyst.io/funds/9
+Fund 10,funding round,192,173,0,19,,https://projectcatalyst.io/funds/10
+Fund 11,funding round,300,246,32,22,,https://projectcatalyst.io/funds/11
+Fund 12,funding round,258,193,34,31,,https://projectcatalyst.io/funds/12
+Fund 13,funding round,199,143,32,24,,https://projectcatalyst.io/funds/13
+Fund 14,funding round,131,70,47,14,3 onboarding; mature grant cycle still underway,https://projectcatalyst.io/funds/14
+Fund 15,not proceeding as planned,0,0,0,0,Public page says active; transition announcement says original F15/F16 plans did not proceed; no awards recorded,https://projectcatalyst.io/funds/15
+Fund 16,"planned, not operated as planned",,,,,"Cancelled planned round; not part of 2,221 award population",https://cardano.org/glossary/project-catalyst/
+Pilot 2026,curated pilot,12,0,,,12 selected; onboarded/active statuses not counted as original F2-F14 awards; no public ADA-holder vote,https://projectcatalyst.io/blog/meet-the-12-teams-selected-for-the-catalyst-pilot-2026
