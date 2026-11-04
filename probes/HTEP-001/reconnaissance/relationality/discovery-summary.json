@@ -1,0 +1,15 @@
+{
+  "total_twd_actions": 107,
+  "proposed_relationships": 16,
+  "supported_by_proposer_metadata": 11,
+  "candidate_only": 5,
+  "distinct_actions_touched": 28,
+  "explicit_twd_id_cross_references_found_in_prose_or_reference_urls": 19,
+  "snapshot_retrieved_at_utc": "2026-11-03T20:42:44.166123+00:00",
+  "limitations": [
+    "Relationships are curated, not exhaustive.",
+    "Supported means metadata explicitly describes the relationship, not that external documents were verified.",
+    "A later submission is not an edit to an earlier on-chain action.",
+    "Not included means not assessed or not selected, not independent."
+  ]
+}
