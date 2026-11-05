@@ -1,0 +1,9 @@
+source_id,record_date,record_type,url,retrieval_status,attests,limitation
+S3-01,,Catalyst proposal and administrative project page,https://projectcatalyst.io/funds/8/accelerate-decentralized-identity/universal-resolver-for-didprism,read_public_html,"proposal; budget; recorded distribution and completion; monthly summaries",mutable_current_rendering
+S3-02,2022-05-17,monthly_progress_summary,https://projectcatalyst.io/funds/8/accelerate-decentralized-identity/universal-resolver-for-didprism,read_public_html,planned_start_and_completion_date,proposer_report_only
+S3-03,2022-06-20,monthly_progress_summary,https://projectcatalyst.io/funds/8/accelerate-decentralized-identity/universal-resolver-for-didprism,read_public_html,reported_did_transformation_progress,proposer_report_only
+S3-04,2022-07-19,monthly_completion_summary,https://projectcatalyst.io/funds/8/accelerate-decentralized-identity/universal-resolver-for-didprism,read_public_html,reported_completion,proposer_report_only
+S3-05,,completed_outcome_report,https://drive.google.com/file/d/1tuGBkU3eWGyWqOr4N-CYxGQjfqEu3F8Y/view?usp=sharing,linked_not_retrieved,possible_final_deliverables,contents_unverified
+S3-06,2022-07-19,completion_evidence,https://drive.google.com/open?id=1j060tTwT-Sg781bstXgK9Xi8MQpn1q9v,linked_not_retrieved,possible_completion_substantiation,contents_unverified
+S3-07,2022-06-20,progress_evidence,https://drive.google.com/open?id=1BuvpWNg_Rs_gKXtI6DKoQJ5JOQDdOT1E,linked_not_retrieved,possible_progress_substantiation,contents_unverified
+S3-08,,contemporary_Universal_Resolver_repository,https://github.com/decentralized-identity/universal-resolver,read_public_html,project_ecosystem_context,not_verified_as_grant_deliverable

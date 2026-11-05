@@ -1,0 +1,5 @@
+case_id,source_project_id,budget_component,quantity,unit,assumed_usd_per_unit,proposed_usd,economic_kind,verification
+S3,800352,Driver development,40,hour,100,4000,proposed_labor_budget,proposal_attested
+S3,800352,Fork Docker Hub and hosting activities,20,hour,100,2000,proposed_labor_budget,proposal_attested
+S3,800352,AWS instance,1,year,,400,proposed_infrastructure_budget,proposal_attested
+S3,800352,Domain and SSL,1,combined_estimate,,25,proposed_infrastructure_budget,proposal_attested
