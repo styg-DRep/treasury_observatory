@@ -65,7 +65,17 @@ Early Catalyst's aspirations included not just producing infrastructure or discr
 | **S6 — Delegated allocator** | **One** clearly identifiable PRIME or Draper Dragon downstream allocation, if available | Can treasury authority → intermediary allocation → recipient-level funding be traced without confusing authorization, commitment, transfer and expenditure? | **Provisional; gate after S5.** Use one allocator and at most one illustrative downstream recipient or decision. If no sufficiently documented link exists after a bounded search, record the structural evidence gap rather than force a case. |
 | **S7 — Relational stress test** | Pallas/TxPipe recurring infrastructure **or** a Summit/TOKEN2049 split | Does a more complex history demand new relational distinctions or only reuse the ones already learned? Can contributor-capacity context be documented without imputing causation? | **Optional; select only after S5/S6 learning.** Choose whichever tests an outstanding distinction; do not investigate both merely for coverage. |
 
-**Selection log:** When a slot is activated, append its exact project/transaction IDs, source anchors, what it tests, and reasons for alternatives rejected. The early Catalyst case may end as an informative **failed or partial recovery**, not necessarily a fully populated case memo.
+**Selection log:** When a slot is activated, append its exact project/transaction IDs, source anchors, what it tests, and reasons for alternatives rejected.
+
+### Actual Phase 2 selection log (completed during conduct)
+
+| Slot | Exact identifier and primary source | Selection and alternative decision |
+|---|---|---|
+| **S5 — Liqwid** | Catalyst **Fund 2 project 200008**; [official grant page](https://projectcatalyst.io/funds/2/challenge/liqwidcardano-defi-lending-markets); later **Fund 3 project 300015** | Selected as earliest public-funded round with recoverable planned costs and later progress references. Other early candidates were not exhaustively screened; neither additional Fund 3 nor Fund 4 sampling was needed to test the early-boundary question. |
+| **S6 — Orion/Xverse** | Cardano × Draper Dragon Orion withdrawal `gov_action13qr78nhrhetywapvx2wpm63y9uxpc2dc45zsu9gkncasxqhuhltqqqfu32x` (enacted epoch 624); [Corpus record](https://github.com/styg-DRep/treasury_evidence_corpus/tree/main/records/htep-001/s6-orion-xverse) | Selected over AlphaGrowth PRIME because Orion supplied source-supported, named downstream investment participation (Xverse). PRIME's public cohort references did not establish an equally grounded recipient-level allocation within bounded discovery. |
+| **S7 — optional relational stress test** | **Not activated; no project ID assigned.** | Phase 2 checkpoint found further relational sampling unlikely to change the next formation decision proportionately. |
+
+[Phase 2 checkpoint and decision](Phase_2/phase2-learning-checkpoint-v0.1.md) documents the stop under the activated probe's `continue / refine / redirect / stop` vocabulary. The early Catalyst case may end as an informative **failed or partial recovery**, not necessarily a fully populated case memo.
 
 ### Common intake practice
 
