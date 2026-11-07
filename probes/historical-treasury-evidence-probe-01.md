@@ -2,7 +2,9 @@
 
 ## Status
 
-**Active formation probe:  Check/Learn**
+**Closed — qualified findings (effective upon accepted merge of HTEP closure PR #6)**
+
+Closure decision: [HTEP-001 Closure Learning Record](HTEP-001/HTEP-001-Closure-Learning-Record.md). The original mandate below is preserved as activated; its separate check/learn record documents the accepted early stop and the requested variance for prospective burden logging.
 
 This probe is a bounded experiment within the Treasury Observatory Formation Inquiry.
 
