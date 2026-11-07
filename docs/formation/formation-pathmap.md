@@ -477,15 +477,20 @@ The Pathmap remains appropriate while the institutional form itself is still und
 
 ---
 
-# 13. Current Next Edge
+# 13. Current Next Edge — HTEP-001 Closure Learning Update (2026-11-06)
 
-The present Pathmap points toward one immediate formation activity:
+**HTEP-001:** Closed with qualified findings upon accepted merge of [the closure record](../../probes/HTEP-001/HTEP-001-Closure-Learning-Record.md). Six purposive histories were processed; the original ~30-case forecast was stopped early after reviewable Phase 1 and Phase 2 checkpoints. All six case-level Corpus handoffs were reviewed and merged, with stated fidelity limits. Prospective effort logging remains an explicitly requested closure variance.
 
-> **Historical Treasury Evidence Probe**
+**Next proposed formation question (not an activated probe):** Can presenting the same existing Corpus evidence in different transparent, uncertainty-preserving forms improve *participant-judged* decision relevance without creating false comparability, anchoring or assessment authority? Formulate and review a **bounded Assessment Prototype** before activation. A cold-start Corpus-only reader and a prospective burden log should be included in its design. This would begin testing H03, H04, H07, H10, H11, H12 and **H13**.
 
-Before designing a comprehensive schema, dashboard, rating system, staffing model, or governance structure, the Formation Inquiry should test whether integrating a bounded set of real treasury evidence across time produces useful new understanding.
+**Branch observations:**
 
-That probe should be small enough to revise or abandon and rich enough to challenge the foundational assumptions behind the Observatory.
+- **A (partial):** Historical relations prove useful for exploratory trajectory analysis; do not infer representative utility.
+- **B (partial):** Some older and dynamic sources remain incomplete or expensive to preserve, making minimal prospective reporting an eligible *later* investigation; do not open it automatically.
+- **C (reached for the sampled cost evidence):** Matched independently verified realized-cost comparability was not demonstrated. **Redirect** that arm toward future bottom-up costing, external comparables or prospective calibration if a real inquiry requires it; H06's alternative gains weight.
+- **D (untested):** Assessment representation may anchor judgments; explicitly test the hazard rather than presume it.
+
+The Assessment Prototype's early versions should **not** include reference-class comparison or composite confidence indicators in the absence of a justified comparator. The earlier Historical Treasury Evidence Probe pointer is superseded by this dated learning update; preserve the earlier path rationale in Git history and the archived probe materials.
 
 ---
 
