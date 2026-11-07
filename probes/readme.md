@@ -102,4 +102,93 @@ The merge establishes the working agreement for the probe.
 
 ### Conduct
 
-Work proceeds within the active
+Work proceeds within the active probe domain.
+
+Small operational choices do not require governance.
+
+Material changes to the probe's scope, method, or agreement should be visible through commits or pull requests.
+
+Where the probe produces reusable evidence, that evidence should be contributed to the appropriate evidence repository rather than embedded only in analysis.
+
+### Check
+
+Before closure, results should be reviewed for:
+
+- evidence support;
+- provenance;
+- visible uncertainty;
+- alignment between method and conclusions;
+- treatment of competing explanations;
+- documented burden;
+- adherence to the probe's agreed boundaries.
+
+Checking does not require agreement with the interpretation.
+
+### Learn
+
+The probe should record:
+
+> What did we expect?  
+> What did we observe?  
+> What changed in our understanding?  
+> What remains unresolved?  
+> What should happen next?
+
+Relevant parent hypotheses should receive learning updates.
+
+### Close
+
+A probe closes when its agreed work is complete, its evidence and limitations are available, and its learning has been integrated into the Formation Inquiry.
+
+A probe may conclude with:
+
+- **Continue**
+- **Refine**
+- **Redirect**
+- **Stop**
+
+None of these outcomes should be treated as failure by default.
+
+## Suggested Folder Pattern
+
+A probe may use:
+
+```text
+/probes/<probe-id>/
+  probe.md
+  analysis/
+  findings.md
+  learning.md
+```
+
+Use only the structure the work actually needs.
+
+Do not create empty folders or documents merely to match a template.
+
+## Relationship to Inquiries
+
+A probe is primarily a **learning intervention**.
+
+An inquiry is primarily a **bounded investigation of a tension, pattern, or question**.
+
+A probe may contain an inquiry, and an inquiry may use probes to test competing hypotheses.
+
+The distinction should remain useful rather than rigid.
+
+## Relationship to Evidence
+
+Evidence should outlive the probe where practical.
+
+Source records, provenance, schemas, and reusable normalized evidence should live in the appropriate evidence commons rather than becoming inseparable from one interpretation.
+
+The probe should link to that evidence and document how it was used.
+
+## Working Principles
+
+> **Inherit the topology, not the bureaucracy.**
+
+> **Use the smallest structure that makes the work legible, checkable, and learnable.**
+
+> **A probe exists to change understanding, not merely to produce activity.**
+
+> **The result of a probe is learning, including learning that redirects or stops the work.**
