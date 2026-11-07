@@ -412,7 +412,7 @@ If persistent shared memory does not materially improve future sensemaking, a ma
 
 ### Current Confidence
 
-**Tentative**
+**Tentative — strengthened by HTEP-001 evidence handoffs; downstream reuse not tested**
 
 ### Initial Evidence
 
@@ -436,6 +436,14 @@ After the first historical evidence prototype and at least one real governance u
 
 ---
 
+### Last Learning Update
+
+**2026-11-06 — HTEP-001 qualified closure:** Six independently reviewed Corpus handoffs with source provenance, stable identifiers and documented source gaps support the feasibility of shared historical memory. No evidence yet that the records improve participant decisions in practice.
+
+### History
+
+- HTEP-001 closure, 2026-11-06: tentative hypothesis retained with stronger feasibility evidence; a future independent-use test is still needed.
+
 ## H02 — Longitudinal Integration Improves Sensemaking
 
 ### Hypothesis
@@ -448,7 +456,7 @@ A major proposed value of the Observatory is its ability to turn repeated treasu
 
 ### Current Confidence
 
-**Tentative**
+**Tentative — strengthened by exploratory HTEP-001 trajectories**
 
 ### Initial Evidence
 
@@ -473,6 +481,14 @@ Questions involving recurring funding activity, repeated project classes, evolvi
 After at least one inquiry compares snapshot-based and trajectory-based interpretation of the same treasury condition.
 
 ---
+
+### Last Learning Update
+
+**2026-11-06 — HTEP-001 qualified closure:** Amaru continuation, Eternl revision, Liqwid follow-up and Orion delegation reveal otherwise obscured funding relationships. Their decision relevance and generalizability have not been tested with independent participants.
+
+### History
+
+- HTEP-001 closure, 2026-11-06: exploratory support added; retain caution about misleading continuity across structural breaks.
 
 ## H03 — Shared Evidence Can Support Plural Interpretation
 
@@ -574,7 +590,7 @@ This is central to the initial Cost Observatory concept.
 
 ### Current Confidence
 
-**Tentative**
+**Tentative — materially constrained by HTEP-001 cost-evidence limitations**
 
 ### Complicating Evidence
 
@@ -589,6 +605,14 @@ External market comparables or bottom-up estimates may need to remain primary, w
 After prototype reference classes are used in live or simulated proposal assessments.
 
 ---
+
+### Last Learning Update
+
+**2026-11-06 — HTEP-001 qualified closure:** No verified matched reference class of realized costs was established. Planned hours, conditional reserves, ledger withdrawals, awards and investments are economically different objects; bottom-up estimates, external comparables and prospective calibration gain weight as alternatives.
+
+### History
+
+- HTEP-001 closure, 2026-11-06: cost-comparability arm redirected rather than treated as established. Branch C of Formation Pathmap reached for this sample.
 
 ## H07 — Explicit Uncertainty Improves Decision Quality
 
@@ -714,7 +738,7 @@ An Observatory that substantially increases proposal or governance burden could 
 
 ### Current Confidence
 
-**Unexamined**
+**Tentative — qualitative stewardship evidence; quantitative burden untested**
 
 ### Complicating Evidence
 
@@ -730,6 +754,14 @@ Every major prototype or process should record the burden it creates.
 
 ---
 
+### Last Learning Update
+
+**2026-11-06 — HTEP-001 qualified closure:** Six bounded cases and early stopping were feasible with the steward's reported 16 hours, 41 commits and 6 PRs, substantial AI assistance and independent review. Prospective per-stage effort logging was promised but not performed; other resource and maintenance costs unmeasured.
+
+### History
+
+- HTEP-001 closure, 2026-11-06: retain measurement gap explicitly; closure review asked to accept it as a variance. Require prospective burden logs in next probe.
+
 ## H12 — Observatory Outputs Can Increase Commons Capacity Rather Than Dependency
 
 ### Hypothesis
@@ -742,7 +774,7 @@ This is one of the strongest tests of whether the Observatory behaves as a commo
 
 ### Current Confidence
 
-**Unexamined**
+**Tentative — early institutional signal, cold-start reuse untested**
 
 ### Complicating Evidence
 
@@ -757,6 +789,14 @@ Some institutional dependency may be unavoidable where the analytical domain bec
 After recurring Observatory use, assess whether methods and reasoning are diffusing beyond core contributors.
 
 ---
+
+### Last Learning Update
+
+**2026-11-06 — HTEP-001 qualified closure:** Independent Corpus reviewers improved locators, definitions, source completeness and fidelity without endorsing Observatory judgments. Actual independent cold-start interpretation or maintenance was not tested.
+
+### History
+
+- HTEP-001 closure, 2026-11-06: encourage cold-start Corpus-only reader test before inferring durable commons capacity.
 
 ## H13 — Reflexive Evaluation Can Detect Observatory-Induced Distortion
 
