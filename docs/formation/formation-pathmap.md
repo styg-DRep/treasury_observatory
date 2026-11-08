@@ -477,20 +477,20 @@ The Pathmap remains appropriate while the institutional form itself is still und
 
 ---
 
-# 13. Current Next Edge — HTEP-001 Closure Learning Update (2026-11-06)
+# 13. Current Next Edge — AP-001 Proposed (2026-11-07)
 
-**HTEP-001:** Closed with qualified findings upon accepted merge of [the closure record](../../probes/HTEP-001/HTEP-001-Closure-Learning-Record.md). Six purposive histories were processed; the original ~30-case forecast was stopped early after reviewable Phase 1 and Phase 2 checkpoints. All six case-level Corpus handoffs were reviewed and merged, with stated fidelity limits. Prospective effort logging remains an explicitly requested closure variance.
+**HTEP-001 remains closed with qualified findings** under its accepted closure record (2026-11-06). Six purposive histories were preserved with fidelity limitations; HTEP demonstrated exploratory longitudinal insight but not matched independently verified realized-cost reference classes, independent cold-start usefulness, or transferable prospective effort measurement.
 
-**Next proposed formation question (not an activated probe):** Can presenting the same existing Corpus evidence in different transparent, uncertainty-preserving forms improve *participant-judged* decision relevance without creating false comparability, anchoring or assessment authority? Formulate and review a **bounded Assessment Prototype** before activation. A cold-start Corpus-only reader and a prospective burden log should be included in its design. This would begin testing H03, H04, H07, H10, H11, H12 and **H13**.
+**Next proposed probe (not activated): AP-001 — Evidence Representation Prototype**, under [Issue #7](https://github.com/styg-DRep/treasury_observatory/issues/7). Test whether different transparent, uncertainty-preserving views of the **same two existing Corpus histories (S1 Amaru and S2 Eternl)** improve participant comprehension, provenance tracing and plural interpretation without creating false economic equivalence, anchoring or de facto assessment authority. Use a Corpus-first cold-start reader; measure burden prospectively; apply explicit stopping limits. Parent hypotheses: H03/H04/H07/H10 with H11/H12/H13 cross-cutting. The separate probe PR establishes its exact mandate; this Pathmap note is not activation.
 
-**Branch observations:**
+**Branch observations and choice:**
 
-- **A (partial):** Historical relations prove useful for exploratory trajectory analysis; do not infer representative utility.
-- **B (partial):** Some older and dynamic sources remain incomplete or expensive to preserve, making minimal prospective reporting an eligible *later* investigation; do not open it automatically.
-- **C (reached for the sampled cost evidence):** Matched independently verified realized-cost comparability was not demonstrated. **Redirect** that arm toward future bottom-up costing, external comparables or prospective calibration if a real inquiry requires it; H06's alternative gains weight.
-- **D (untested):** Assessment representation may anchor judgments; explicitly test the hazard rather than presume it.
+- **A — partial:** Historical relationships can support exploratory longitudinal understanding, not representative outcomes or verified cost reference classes.
+- **B — partial and explicitly reconsidered, not activated:** Historical evidence gaps and the Driver's concern with distinguishing *warranted uncertainty from avoidable information asymmetry* support investigating capture *when proposals are formed*. But intake fields change proposer behavior, may confer schema authority, and risk burden. Following PR #8 review, the prospective component has been **removed from AP-001**. A separately authorized inquiry (working label **AP-002**, not yet proposed or approved) may test whether prospective capture is legitimate and useful. Its authorization is independent of AP-001's success; any Corpus schema change belongs to Corpus review.
+- **C — reached for sampled realized costs:** No independently verified matched historical realized-cost reference class was demonstrated. External comparables, bottom-up estimating and prospective calibration remain candidates for separately justified work; none is authorized by AP-001.
+- **D — untested:** AP-001 will investigate anchoring and deference, rather than presuming either absent or inevitable.
 
-The Assessment Prototype's early versions should **not** include reference-class comparison or composite confidence indicators in the absence of a justified comparator. The earlier Historical Treasury Evidence Probe pointer is superseded by this dated learning update; preserve the earlier path rationale in Git history and the archived probe materials.
+**Decision rationale:** Separate work where it improves proportionality, and separate authorization where doing so preserves a credible choice to stop. The Pathmap records why AP-001 is the next *proposed* action without turning a possible AP-002 into a committed sequence. The earlier HTEP next-edge framing remains traceable through version history.
 
 ---
 

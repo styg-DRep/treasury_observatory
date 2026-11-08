@@ -128,18 +128,18 @@ The Observatory seeks to provide shared memory, visible provenance, explicit met
 
 ## Current Formation Path
 
-The current Formation Pathmap groups uncertainty into four broad territories:
+The Formation Pathmap groups uncertainty into four broad territories:
 
 1. **Can shared evidence produce useful learning?**
 2. **Can analysis improve judgment without becoming authority?**
 3. **Can evaluation remain distributed?**
 4. **Can the Observatory remain a healthy commons institution over time?**
 
-The current next edge is the:
+**HTEP-001 is closed with qualified findings.** Six contrasted histories produced reusable Corpus evidence and exploratory longitudinal learning, but did not establish matched independently verified realized-cost reference classes, transferable effort estimates, or participant-judged relevance.
 
-**Historical Treasury Evidence Probe**
+The **current proposed next edge** is [AP-001 — Evidence Representation Prototype](probes/AP-001/probe.md), a bounded experiment under [Issue #7](https://github.com/styg-DRep/treasury_observatory/issues/7) using S1 Amaru and S2 Eternl. AP-001 is **not active until its agreement is reviewed and merged**.
 
-This probe will test whether a bounded sample of historical treasury activity can be transformed into reusable, provenance-preserving evidence that supports longitudinal sensemaking and cost inquiry.
+Prospective capture remains an eligible, **separately authorized** Pathmap Branch B inquiry, not a phase of AP-001 or a presumed next step. It may help address avoidable information asymmetry at proposal creation, but could also create schema authority and participation burden. Its need and legitimate boundaries remain open.
 
 ## How Probes Work
 
