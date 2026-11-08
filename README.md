@@ -128,8 +128,6 @@ The Observatory seeks to provide shared memory, visible provenance, explicit met
 
 ## Current Formation Path
 
-## Current Formation Path
-
 The Formation Pathmap groups uncertainty into four broad territories:
 
 1. **Can shared evidence produce useful learning?**
